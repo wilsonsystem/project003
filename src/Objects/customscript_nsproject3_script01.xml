@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_nsproject3_script01">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Coupon Code Generation</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/nsproject3_script01.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_nsproject3_script01">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole></runasrole>
+      <status>TESTING</status>
+      <title>Coupon Code Generation</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
